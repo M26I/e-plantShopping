@@ -266,7 +266,7 @@ const handlePlantsClick = (e) => {
               <div>
                 <h3 style={{ color: 'white' }}>Paradise Nursery</h3>
                 <i style={{ color: 'white' }}>Where Green Meets Serenity</i>
-              </div>
+              </div> 
             </a>
           </div>
         </div>
